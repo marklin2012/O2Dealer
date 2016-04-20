@@ -9,3 +9,6 @@ cd O2Dealer
 swift build
 .build/debug/O2Dealer
 ```
+
+> Note: Here may get error with No submodule mapping found in .gitmodules for path '...' . You should use `swift build` again.
+
